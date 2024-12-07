@@ -1,10 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsnayuta.itsnayuta" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nayuta!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=00F7FF&lines=Welcome+to+my+GitHub!+🌟;I'm+Nayuta,+developer!+💻;Always+learning,+always+growing!+🚀" />
 </h1>
 
-<h3 align="center">A passionate software developer from VietNam ⱽᴺ</h3>
+
+<h3 align="center">A passionate developer from VietNam ⱽᴺ</h3>
 
 <br/>
 
