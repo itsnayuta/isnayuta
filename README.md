@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsnayuta.itsnayuta" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=00F7FF&lines=Welcome+to+my+GitHub!+🌟;I'm+Nayuta,+developer!+💻;Always+learning,+always+growing!+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=00F7FF&lines=Welcome+to+my+GitHub!+🌟;I'm+Nayuta,+a+developer!+💻;Always+learning,+always+growing!+🚀" />
 </h1>
 
 
